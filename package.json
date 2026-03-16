@@ -1,0 +1,32 @@
+{
+  "name": "finance-tracker-pluggy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.9.0",
+    "pluggy-sdk": "^0.83.0",
+    "react-pluggy-connect": "^2.12.0",
+    "@supabase/supabase-js": "^2.49.1",
+    "autoprefixer": "^10.4.21",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.476.0",
+    "next": "14.2.29",
+    "postcss": "^8.5.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.15.1",
+    "tailwindcss": "^3.4.19"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.24",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "typescript": "^5.8.2"
+  }
+}
